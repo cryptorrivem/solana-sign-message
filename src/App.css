@@ -1,0 +1,10 @@
+.App {
+  width: 100vw;
+}
+
+.sign {
+  display: grid;
+  margin: auto;
+  gap: 1rem;
+  width: 800px;
+}
